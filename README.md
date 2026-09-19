@@ -50,12 +50,7 @@ An Excel-based business analysis project focused on understanding sales performa
 
 ---
 
-### 🛍️ E-Commerce Analytics — StyleCart
-An end-to-end analytics project focused on customer behavior, sales performance, product analysis, and business decision-making.
 
-**Tools:** Excel | SQL | Python | Power BI
-
----
 
 ## 📈 My Learning Journey
 
